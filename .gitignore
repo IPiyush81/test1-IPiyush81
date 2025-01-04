@@ -1,0 +1,9 @@
+node_modules
+build
+config/default.json
+watchlistdb.sqlite
+wiberSessions
+public/sw.js
+next-env.d.ts
+.next
+public/workbox*.js
